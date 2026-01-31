@@ -1,4 +1,4 @@
-## Modèle commun
+# Modèle commun
 
 - [ ] Player
   - [ ] Silver
@@ -14,17 +14,17 @@
 - [ ] Système de collecte des pièces
 - [ ] Sauvegarde de niveau en .json
 
-## Éditeur de niveau
+# Éditeur de niveau
 
-# Version texte
+## Version texte
 
-# Version graphique
+## Version graphique
 
-## Jeu
+# Jeu
 
-# Version texte
+## Version texte
 
-# Version graphique
+## Version graphique
 
 - [ ] Gestion des entrées
   - [ ] Déplacements (ZQSD/WASD)
