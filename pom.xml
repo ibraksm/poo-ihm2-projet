@@ -60,7 +60,7 @@
                         <!-- Default configuration for running with: mvn clean javafx:run -->
                         <id>default-cli</id>
                         <configuration>
-                            <mainClass>fr.groupe20.projet/fr.groupe20.projet.App</mainClass>
+                            <mainClass>fr.groupe20.projet/fr.groupe20.projet.application.gui.EditorApplication</mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
                             <jlinkImageName>app</jlinkImageName>
